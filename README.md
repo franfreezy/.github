@@ -20,7 +20,7 @@ I'm DevFreezy, a software developer and hardware engineer from Nairobi-Kenya. We
 ## Technologies I Use
 
 - <img src="![image](https://github.com/franfreezy/.github/assets/64470491/267fb6f5-f1a0-4499-a9dc-b04d809a50e7)
-" alt="VS code" width="30"/> 
+!"  width="50"/> 
 - <img src="![image](https://github.com/franfreezy/.github/assets/64470491/6378f554-5ddc-455a-809b-9deee40a1fa7)
 " alt="python" width="30"/>
 - - <img src="![image](https://github.com/franfreezy/.github/assets/64470491/22d666c6-d079-415b-8760-f4d7f6fdd3a2)
